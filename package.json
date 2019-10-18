@@ -1,12 +1,12 @@
 {
-    "name": "vscode-solarized",
-    "displayName": "Braver's Solarized",
+    "name": "vscode-solarized-ethnt",
+    "displayName": "Braver's Solarized (Ethan)",
     "description": "The best Solarized theme for VS Code",
     "version": "2.0.2",
     "publisher": "Braver",
     "repository": {
         "type": "git",
-        "url": "https://github.com/braver/vscode-solarized.git"
+        "url": "https://github.com/ethnt/vscode-solarized.git"
     },
     "engines": {
         "vscode": "^1.5.0"

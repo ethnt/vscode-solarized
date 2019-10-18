@@ -8,7 +8,8 @@
         "meta.documentation"
       ],
       "settings": {
-        "foreground": "#586e75"
+        "foreground": "#586e75",
+        "fontStyle": "italic"
       }
     },
     {
